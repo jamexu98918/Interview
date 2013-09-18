@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using LinkedList;
-
+//write cod to remove duplicates from an unsorted linked list
+//1. sort linked list with merge sort method
+//2. remove duplicated
 namespace TestSinglyLinkedList
 {
     class Program
